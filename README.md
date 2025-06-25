@@ -19,3 +19,11 @@ Sends repeated messages using test/public SMS APIs
 
 
 DOWNLOAD CMDS 
+
+git clone https://github.com/ULuvlemonaidd/Grim
+
+cd Grim
+
+python grim.py
+
+![Screenshot 2025-06-25 1 36 29 AM](https://github.com/user-attachments/assets/b73e6d2e-7d32-4079-9ead-75b2f924359f)
